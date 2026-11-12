@@ -2,7 +2,7 @@
 
 Extensive Morphe builder  
 
-Get the [latest CI release](https://github.com/j-hc/revanced-magisk-module/releases).
+Get the [latest CI release](https://github.com/throwi3/morphe-contraband/releases).
 
 <details><summary><big>Features</big></summary>
 <ul>
