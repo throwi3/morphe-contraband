@@ -14,5 +14,6 @@ arch = "arm64-v8a"
 [HushTumblr]
 app-name = "Tumblr"
 patches-source = "SysAdminDoc/HushTumblr"
+rv-brand = "Hush"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
 arch = "arm64-v8a"
