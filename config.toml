@@ -9,8 +9,10 @@ parallel-jobs = 1
 [YouTube-Morphe]
 app-name = "YouTube"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+arch = "arm64-v8a"
 
 [HushTumblr]
 app-name = "Tumblr"
 patches-source = "SysAdminDoc/HushTumblr"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
+arch = "arm64-v8a"
