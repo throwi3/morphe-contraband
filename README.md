@@ -35,3 +35,6 @@ such as,
 - **"Suspicious mount detected"** warnings from root detector apps
 
 You can consider using [rvmm-zygisk-mount](https://github.com/j-hc/rvmm-zygisk-mount)
+
+## Credits
+[j-hc](https://github.com/j-hc) for [zygisk-detach](https://github.com/j-hc/zygisk-detach) and the [script on which this is based on](https://github.com/j-hc/revanced-magisk-module).
