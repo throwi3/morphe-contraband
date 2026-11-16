@@ -12,15 +12,17 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 arch = "arm64-v8a"
 
 [HushTumblr]
-app-name = "Tumblr"
 patches-source = "SysAdminDoc/HushTumblr"
 rv-brand = "Hush"
+app-name = "Tumblr"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
 arch = "arm64-v8a"
 
 [Firefox-Focus-Heval]
-app-name = "Firefox Focus"
+dpi = "nodpi anydpi 120-640dpi"
 patches-source = "heval99/Heval-Morphe-Patches"
 rv-brand = "Heval"
+app-name = "Firefox Focus"
+version = "latest"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/mozilla/firefox-focus-private-browser/"
 arch = "arm64-v8a"
