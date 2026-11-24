@@ -17,11 +17,3 @@ rv-brand = "Hush"
 app-name = "Tumblr"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/tumblr-inc/tumblr"
 arch = "arm64-v8a"
-
-[YouTube-Reseam]
-patches-source = "Reseam/patches"
-cli-source = "Reseam/reseam"
-rv-brand = "Reseam"
-app-name = "YouTube"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-arch = "arm64-v8a"
